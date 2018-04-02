@@ -1,6 +1,11 @@
 # auv-project
 
 TASK - 1 :- 
+    
+    
+    
+    
+    
     It contains beginner_tutorials package. Add this directory to your src directory in your ros workspace directory.
     Open the terminal and move into your workspace folder and do catkin_make(to build your packages and generate all executables and makefiles)
     open another terminal, then source it your devel folder.
